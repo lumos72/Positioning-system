@@ -1,2 +1,2 @@
 # Positioning-system
-Positioning system based on GPS &amp; GPRS
+A positioning system based on GPS and PRS.
